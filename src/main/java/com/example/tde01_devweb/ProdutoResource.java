@@ -73,14 +73,4 @@ public class ProdutoResource {
         p.setEan(produto.getEan());
         return p;
     }
-
-
-
-
-
-
-
-
-
-
 }
